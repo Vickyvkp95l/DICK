@@ -10,7 +10,7 @@ USER_FILE = "users.json"
 ADMIN_FILE = "admins.json"
 DEFAULT_THREADS = 2100
 DEFAULT_PACKET = 15
-DEFAULT_DURATION = 200  # Default attack duration
+DEFAULT_DURATION = 180  # Default attack duration
 
 users = {}
 admins = {}
